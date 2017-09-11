@@ -5,3 +5,5 @@ Do you:
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Go back to sleep](marshmallow.md)?
+
+[מתקשר לחברים שיבואו לאכול את המרשמלו](call/callmyfriends.md)?
